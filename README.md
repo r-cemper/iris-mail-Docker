@@ -1,5 +1,5 @@
-# Docker_Demo: iris-mail
-The original repo is lost, but the package survived in Docker      
+# iris-mail-Docker
+The original repo is lost, but the package survived in Docker and IPM      
 ### Prerequisites
 Make sure you have [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and [Docker desktop](https://www.docker.com/products/docker-desktop) installed.
 ### Installation
